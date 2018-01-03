@@ -21,4 +21,4 @@
 > git clone https://github.com/sergeyamator/itvdn-landing.git 
 
 * Запустить команду npm install в терминале. Данная команда установит все пакеты, которые указанны в файле 
-packege.json, а также все их зависимости
+packege.json, а также все их зависимости# lp01012018. Вот так вот!!!
